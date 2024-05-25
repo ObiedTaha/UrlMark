@@ -1,0 +1,12 @@
+1- git init //to initinzation git
+2- git add .
+3- git commit -m ''
+4- git commit -am ''
+5- git push 
+6- git pull
+7- git fetch
+8- git merge
+9- git status
+10 git branch
+11- git branch -M newBranch
+12- git log

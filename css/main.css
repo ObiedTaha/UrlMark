@@ -1,0 +1,33 @@
+.header h1{
+    color: #AAAAAA;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 50px;
+    border-bottom: 2px solid #f1f1ff ;
+    width: 95% ;
+}
+.form{
+    background-color:#EEEEEE ;
+    padding: .5px;
+}
+.headerForTable h2{
+    font-weight: 650;
+}
+.form label{
+    font-size: 20px;
+    font-weight: 500;
+}
+.form button:hover{
+    background-color:#0A3F77 ;
+    
+}
+.footer{
+    padding-top: 40px;
+    border-top: 2px solid #f1f1ff ;
+    width: 95% ;
+}
+
+table tbody tr td{
+    margin: 555px 0;
+    background:lgra (to bottom,gray,#FFf) !important;
+}
